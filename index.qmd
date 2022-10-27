@@ -4,6 +4,7 @@ embed-resources: true
 format: 
   revealjs:
     theme: ["fonts-bodoni.scss"]
+    css: fonts.css
 editor: visual
 ---
 
